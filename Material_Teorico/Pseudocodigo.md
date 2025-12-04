@@ -9,3 +9,5 @@ Como punto a resaltar, el pseudocódigo se puede tomar como la base para poder a
 # ¿Cómo puedo comenzar a utilizar el pseudocódigo para prácticar?
 Muchas veces puedes realizar este a papel o en un bloc de notas sin problema alguno, ya que su punto importante es practicar; sin embargo, si quieres ir verificando la funcionalidad de lo que realices, puedes utilizar el programa Pseint para practicar. Aquí te dejo el link para poder descargarlo en tu PC:
 https://pseint.sourceforge.net/ 
+
+Si quieres leer más al respecto y ver las especificaciones de cómo comenzar a realizar pseudocódigo puedes leer esta documentación: https://www.lifeder.com/pseudocodigo/
