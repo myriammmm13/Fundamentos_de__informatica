@@ -16,10 +16,18 @@ Una característica del Código Objeto es que es la interpretación del código 
 
 ## Creación del Código Objeto
 
--Escritura del Código Objeto: El programador escribe el código en un lenguaje de alto nivel como C++, Java o Python.
+-**Escritura del Código Objeto**: El programador escribe el código en un lenguaje de alto nivel como C++, Java o Python.
 
--Compilación: El compilador convierte el código fuente en código objeto. Este proceso incluye traducción a instrucciones de máquina específicas para el tipo de procesador en uso.
+- **Compilación**: El compilador convierte el código fuente en código objeto. Este proceso incluye traducción a instrucciones de máquina específicas para el tipo de procesador en uso.
 
-- **Enlazado**:
-    
-    El enlazador combina el código objeto con otros módulos y bibliotecas necesarias, generando el archivo ejecutable final.
+- **Enlazado**: El enlazador combina el código objeto con otros módulos y bibliotecas necesarias, generando el archivo ejecutable final.
+
+# Sistemas Operativos
+Un sistema operativo (SO) es un software fundamental que actúa como intermediario entre el hardware de una computadora y los programas de aplicación, gestionando los recursos del sistema de manera eficiente y proporcionando servicios esenciales para que las aplicaciones puedan ejecutarse. Sin un sistema operativo, sería extremadamente difícil para los usuarios interactuar con el hardware.
+
+Características de los Sistemas Operativos:
+
+**Gestión de Procesos**
+
+- Administra la ejecución de los procesos, incluyendo la planificación, creación, suspensión, y finalización.
+- Utiliza algoritmos para asignar tiempo de CPU a cada proceso (por ejemplo, planificación por turnos o prioridad).
