@@ -17,4 +17,9 @@ Una característica del Código Objeto es que es la interpretación del código 
 ## Creación del Código Objeto
 
 -Escritura del Código Objeto: El programador escribe el código en un lenguaje de alto nivel como C++, Java o Python.
+
 -Compilación: El compilador convierte el código fuente en código objeto. Este proceso incluye traducción a instrucciones de máquina específicas para el tipo de procesador en uso.
+
+- **Enlazado**:
+    
+    El enlazador combina el código objeto con otros módulos y bibliotecas necesarias, generando el archivo ejecutable final.
