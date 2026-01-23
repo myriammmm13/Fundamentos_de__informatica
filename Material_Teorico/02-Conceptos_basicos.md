@@ -13,3 +13,5 @@ Dicho código es un archivo intermedio que surge de la ***compilación*** de un 
 La razón de ser del Código Objeto es hacer que el código fuente sea “Legible” por la computadora de manera directa, pero no es ejecutable ya que no posee un enlace a las bibliotecas o módulos externos.
 
 Una característica del Código Objeto es que es la interpretación del código fuente a lenguaje binario (Unos y Ceros).
+
+## aa
