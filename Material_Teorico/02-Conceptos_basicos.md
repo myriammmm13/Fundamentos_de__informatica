@@ -14,4 +14,6 @@ La razón de ser del Código Objeto es hacer que el código fuente sea “Legibl
 
 Una característica del Código Objeto es que es la interpretación del código fuente a lenguaje binario (Unos y Ceros).
 
-## aa
+## Creación del Código Objeto
+-Escritura del Código Objeto: El programador escribe el código en un lenguaje de alto nivel como C++, Java o Python.
+-Compilación: El compilador convierte el código fuente en código objeto. Este proceso incluye traducción a instrucciones de máquina específicas para el tipo de procesador en uso.
