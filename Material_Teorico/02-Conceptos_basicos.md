@@ -16,7 +16,7 @@ Una característica del Código Objeto es que es la interpretación del código 
 
 ## Creación del Código Objeto
 
--**Escritura del Código Objeto**: El programador escribe el código en un lenguaje de alto nivel como C++, Java o Python.
+- **Escritura del Código Objeto**: El programador escribe el código en un lenguaje de alto nivel como C++, Java o Python.
 
 - **Compilación**: El compilador convierte el código fuente en código objeto. Este proceso incluye traducción a instrucciones de máquina específicas para el tipo de procesador en uso.
 
@@ -25,9 +25,23 @@ Una característica del Código Objeto es que es la interpretación del código 
 # Sistemas Operativos
 Un sistema operativo (SO) es un software fundamental que actúa como intermediario entre el hardware de una computadora y los programas de aplicación, gestionando los recursos del sistema de manera eficiente y proporcionando servicios esenciales para que las aplicaciones puedan ejecutarse. Sin un sistema operativo, sería extremadamente difícil para los usuarios interactuar con el hardware.
 
-Características de los Sistemas Operativos:
+## Características de los Sistemas Operativos:
 
 **Gestión de Procesos**
 
 - Administra la ejecución de los procesos, incluyendo la planificación, creación, suspensión, y finalización.
 - Utiliza algoritmos para asignar tiempo de CPU a cada proceso (por ejemplo, planificación por turnos o prioridad).
+
+**Gestión de Memoria**
+
+- Controla el uso de la memoria principal (RAM) para asegurar que los procesos tengan acceso a la memoria que necesitan sin interferir entre sí.
+- Maneja memoria virtual para ampliar la capacidad percibida mediante el uso del almacenamiento secundario.
+
+**Gestión de Seguridad y Permisos**
+
+- Protege los datos y recursos del sistema de accesos no autorizados.
+- Implementa autenticación (como contraseñas) y permisos para archivos y procesos.
+
+**Interfaz de Usuario**
+
+- Proporciona formas de interacción con el usuario, ya sea mediante una **interfaz gráfica (GUI)** o una **interfaz de línea de comandos (CLI)**.
