@@ -27,5 +27,25 @@ Este es útil cuando más de una condición es poosible y puede ser verdadera cu
 - else { devuelve "Insuficiente" }
 
 ## if-else (Si-no)
+Este permite tener solo dos caminos, ya que si no se cumple una condición, se irá automáticamnete a otra:
 
+- if (calificacion >= 70) { devuelve "Aprobado" }
+- else { devuelve "Suspendido" }
+  
 ## switch (Casos)
+En ciertos casos, se pueden tener varios escenarios posibles en la evaluación de una sola variable, siendo esto necesario trabajarse por medio de los switch's:
+-
+switch (dia) {
+    case 1:
+        System.out.println("Lunes");
+        break;
+    case 2:
+        System.out.println("Martes");
+        break;
+    default:
+        System.out.println("Día inválido");
+}
+
+
+
+
