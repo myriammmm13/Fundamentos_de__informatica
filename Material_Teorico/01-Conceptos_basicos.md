@@ -45,3 +45,20 @@ Un sistema operativo (SO) es un software fundamental que actúa como intermediar
 **Interfaz de Usuario**
 
 - Proporciona formas de interacción con el usuario, ya sea mediante una **interfaz gráfica (GUI)** o una **interfaz de línea de comandos (CLI)**.
+
+# ¿Qué es un IDE?
+Entorno de Desarrollo Integrado, este es un programa que contiene todas las herramientas necesarias para crear software. En palabras simples, es donde los programadores escriben, prueba, corrigen y ejecutan su código para poder hacer su proceso profesional más fácil y rápido.
+
+## ¿Para qué sirve un IDE?
+- Escribir código
+- Detectar errores
+- Ejecutar programas
+- Organizar archivos del proyecto
+- Facilitar el trabajo del programador
+
+## ¿Qué incluye normalmente un IDE?
+- Editor de código: Permite escribir el programa y ofrece ayudas como: Colores para el código, autocompletado y numeración de líneas.
+- Compilador o intérprete: Traduce el código para que la computadora lo entienda y lo ejecute.
+- Depurador (debugger): Ayuda a encontrar errores, ejecutar el programa paso a paso y ver el valor de las variables.
+- Herramientas adicionales: Gestión de archivos, control de versiones (Git) y consola integrada.
+
