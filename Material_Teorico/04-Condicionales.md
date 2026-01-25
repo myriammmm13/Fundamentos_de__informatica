@@ -22,8 +22,8 @@ Este ejecuta su bloque de código (lo que posea entre sus "{}") solo cuando su c
 ## if - else if - else (si's anidados)
 Este es útil cuando más de una condición es poosible y puede ser verdadera cualquiera. Ej:
 
-### if (calificacion >= 90) {
-###     devuelve "Excelente"
+if (calificacion >= 90) {
+      devuelve "Excelente"
 } else if (calificacion >= 70) {
     devuelve "Bueno"
 } else {
