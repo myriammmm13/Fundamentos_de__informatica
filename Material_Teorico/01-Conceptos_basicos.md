@@ -62,3 +62,10 @@ Entorno de Desarrollo Integrado, este es un programa que contiene todas las herr
 - Depurador (debugger): Ayuda a encontrar errores, ejecutar el programa paso a paso y ver el valor de las variables.
 - Herramientas adicionales: Gestión de archivos, control de versiones (Git) y consola integrada.
 
+## Ejemplos de IDE's
+- Zinjai (utilizado en fundamentos de infromática)
+- VS code
+- IntelliJ IDEA(utilizado en p3)
+- VS 2022 (utilizado en p1 y p2)
+- PyCharm
+- etc
