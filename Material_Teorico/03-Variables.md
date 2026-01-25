@@ -13,4 +13,4 @@ Existen distintos tipos de "cajitas" o almacenamientos:
 - Arreglos (se guardan múltiples variables de un mismo tipo, ej: [1, 2, 4, 34, 7])
 - etc
 
-Un dato importante a destacar es que las variables tipo primitivas poseen un tamaño fijo en la memoria, ya que tienen un límite para la longitud de su dato, mientras que las de referencia no poseen un tamaño fijo los las necesidades de uso del usuario. Esto último se explica porque este tipo de variables son un apuntador (de tamaño fijo) hacia un objeto que posee la información, siendo este quien puede ser de mayor o menor tamaño. 
+Un aspecto importante a destacar es que las variables de tipo primitivo poseen un tamaño fijo en memoria, ya que tienen un límite definido para la cantidad de datos que pueden almacenar. En cambio, las variables de referencia no tienen un tamaño fijo, pues su capacidad depende de las necesidades del usuario. Esto se debe a que este tipo de variables actúa como un apuntador (de tamaño fijo) hacia un objeto que contiene la información, y es dicho objeto el que puede ocupar mayor o menor espacio en memoria.
