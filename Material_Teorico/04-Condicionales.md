@@ -34,18 +34,7 @@ Este permite tener solo dos caminos, ya que si no se cumple una condición, se i
   
 ## switch (Casos)
 En ciertos casos, se pueden tener varios escenarios posibles en la evaluación de una sola variable, siendo esto necesario trabajarse por medio de los switch's:
--
-switch (dia) {
-    case 1:
-        System.out.println("Lunes");
-        break;
-    case 2:
-        System.out.println("Martes");
-        break;
-    default:
-        System.out.println("Día inválido");
-}
-
-
-
-
+- switch (dia) {
+- case 1: devuelve "Lunes"
+- case 2: devuelve "Martes"
+- default: "Día inválido" }
