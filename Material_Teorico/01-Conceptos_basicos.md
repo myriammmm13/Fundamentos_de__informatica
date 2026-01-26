@@ -72,3 +72,7 @@ Entorno de Desarrollo Integrado, este es un programa que contiene todas las herr
 - VS 2022 (utilizado en p1 y p2)
 - PyCharm
 - etc
+
+# ¿Qué es la lógica de programación?
+Es un mecanismo donde el usuario debe hacerse cargo de programar el ordenador para que sea capaz de tomar decisiones propias basándose en los postulados y parámetros de la lógica matemática. Esta es importante para poder dar solución a los problemas que se nos puedan plantear para resolver con código o programas específicos. 
+La lógica de programación se puede desarrollar o mejorar por medio de ejercicios o actividades donde se nos vea obligados a realizar un análisis de los problemas y ver sus soluciones de una forma detallada y/o óptima; además del uso de ejercicios de lógica matemática.
