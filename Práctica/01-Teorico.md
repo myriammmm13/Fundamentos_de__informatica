@@ -13,7 +13,6 @@ Si bien aún no se ven qué son las variables, si sabemos que para cocinar panca
 - azucar = 2 cucharadas
 - polvoHornear = 1 cucharadita
 - aceite = 1 cucharada
-- masaLista = false (este es el resultado que buscamos cuando mezclemos los otros elementos)
 - sartén
 - cocina
 - recipiente
