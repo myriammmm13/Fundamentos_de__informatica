@@ -46,7 +46,7 @@ Un sistema operativo (SO) es un software fundamental que actúa como intermediar
 
 - Proporciona formas de interacción con el usuario, ya sea mediante una **interfaz gráfica (GUI)** o una **interfaz de línea de comandos (CLI)**.
 
-#¿Qué es un lenguaje de programación?
+# ¿Qué es un lenguaje de programación?
 Un lenguaje de programación es un sistema estructurado compuesto por reglas gramaticales, símbolos y sintaxis que permite a los desarrolladores comunicarse con las computadoras. A través de este, se escriben instrucciones claras y precisas, conocidas como código, que indican a la máquina cómo realizar tareas específicas.
 
 # ¿Qué es un IDE?
