@@ -4,5 +4,5 @@ En este momento te adjunto un link a una imagen para que puedas observar los sí
 
 Teniendo esto a mano, podemos realizar una actividad similar a la anterior. Podemos realizar otro paso a paso de otra actividad, o tomar la ya hecha, para traducirlo a un diagrama de flujo. Aquí te dejo un ejemplo de cómo se vería esto hecho en un diagrama de flujo: https://3.bp.blogspot.com/-5sBAgl9HSEs/UamDSfIWI8I/AAAAAAAAADM/MqQtTIkrROE/s1600/3.png
 
-La finalidad de esto es poder  desarrollar esta misma lógica de programación, pero de una forma más abstracta y visual, siendo esta útil para poder ir resolviendo los problemas de distintas formas y poco a poco irlo migrando hacia la sintaxis, semántica y pragmática.
+La finalidad de esto es poder  desarrollar esta misma lógica de programación, pero de una forma más abstracta y visual, siendo esta útil para poder ir resolviendo los problemas de distintas formas y poco a poco irlo migrando hacia la sintaxis, semántica y pragmática de un lenguaje de programación, en este caso C++.
 
