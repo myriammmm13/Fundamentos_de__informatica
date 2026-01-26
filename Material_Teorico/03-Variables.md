@@ -3,7 +3,7 @@ Las variables son, en términos básicos, un espacio o almacenamiento donde se p
 Existen distintos tipos de "cajitas" o almacenamientos: 
 
 ## ¿Para qué sirven las variables?
-Estas nos son útiles para poder almacenar, modificarla o eliminar infofrmación según las necesidades del programa y usuario. Un ejemplo cotidiano para esto serían las alacenas, ya que estas tienen un tamaño específico y son destinadas para poder almacenar comida, siendo esta fluctuante por el consumo, compra o eliminación de la misma según las necesidades del consumidor.
+Estas nos son útiles para poder almacenar, modificarla o eliminar información según las necesidades del programa y usuario. Un ejemplo cotidiano para esto serían las alacenas, ya que estas tienen un tamaño específico y son destinadas para poder almacenar comida, siendo esta fluctuante por el consumo, compra o eliminación de la misma según las necesidades del consumidor.
 Algunos tipos de variables son los siguientes:
 
 ## Primitivos
