@@ -33,3 +33,5 @@ Ahora que ya tenemos nuestras variables o elementos a ocupar, vamos a realizar u
 - Paso 11: Repetir pasos 9 y 10 hasta acabar mezcla
 
 Y listo, con esto ya logramos desarrollar nuestro primer ejemplo de ejercicios para lograr desarrollar la lógica de programación con elementos que ya conocemos de nuestro día a día, sin la necesidad de aprender lenguajes de programación o similares (eso nos puede abrumar mucho al pricipio).
+Otro punto importante a destacar es que no siempre se llegarán a las mismas soluciones que las otras personas, pero es no quiere decir que una versión esté mal o sea mejor que la otra, muchas veces van a existir distintos caminos o formas de solucionar un mismo problema. Lo probable es que, tal vez, uno sea más óptimo que el otro, pero esto se soluciona según vayas mejorando tu lógica y conocimientos en programación, estructuras de datos y otros.
+
